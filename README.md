@@ -13,4 +13,16 @@ Here are some ideas to get you started:
 - 📫 How to reach me: ...
 - 😄 Pronouns: ...
 - ⚡ Fun fact: ...
--->
+--> 
+#logo-icon
+  {
+    content: url("https://media.tenor.com/irb-QDeyMVcAAAAC/kuromi.gif") !important;
+    width: 70px;
+    height: 70px;
+    object-fit: cover;
+  }
+
+  ytd-topbar-logo-renderer
+  {
+    width: 0%;
+  }
