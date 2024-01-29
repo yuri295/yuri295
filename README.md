@@ -1,5 +1,6 @@
-![header](https://capsule-render.vercel.app/api?type=venom&color=auto&height=150&section=header&text=Hi!%20I'm%20Yuri&fontSize=110)
-![image](https://github.com/yuri295/yuri295/assets/79833638/47f07f2a-d90e-4f55-866a-a9d8f4a30617)
+![header](https://capsule-render.vercel.app/api?type=venom&color=0:E55D87,100:5FC3E4&height=130&section=header&text=Hi!%20I'm%20Yuri&fontSize=90)
+![image](https://github.com/yuri295/yuri295/assets/79833638/3ac620b0-5bb6-46e8-84d7-c742d9afe279)
+
 
 
 
